@@ -39,14 +39,6 @@ Whether you're a beginner or revising core ML topics, this repo is designed to b
 
 ---
 
-#### 💼 Use Cases & Mini Projects
-
-  - 🏠 House Price Prediction – Regression modeling with feature engineering and tuning
-  - 📩 Spam Detection – Text classification using NLP + Naive Bayes
-  - 🎯 Customer Segmentation – K-means clustering on retail data
-
-##
-
 ### 🙌 Who Can Use This?
 
 - Students learning ML fundamentals
