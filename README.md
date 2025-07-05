@@ -1,6 +1,6 @@
 # 🤖 Machine Learning 
 
-Welcome to my **Machine Learning Learnings** repository!  
+Welcome to my **ML Learnings** repository!  
 This is a curated collection of my hands-on journey in machine learning — covering everything from foundational algorithms to real-world model deployment.
 
 Whether you're a beginner or revising core ML topics, this repo is designed to be your practical go-to resource!
